@@ -1,0 +1,2 @@
+# BuddyApp
+Guide for students
